@@ -1,0 +1,25 @@
+X_train - Age: 271 valori lipsa (0.85%)
+
+X_train - PlayTimeHours: 281 valori lipsa (0.88%)
+
+X_train - SessionsPerWeek: 302 valori lipsa (0.94%)
+
+X_train - AvgSessionDurationMinutes: 276 valori lipsa (0.86%)
+
+X_train - PlayerLevel: 298 valori lipsa (0.93%)
+
+X_train - AchievementsUnlocked: 300 valori lipsa (0.94%)
+
+
+X_test - Age: 69 valori lipsa (0.86%)
+
+X_test - PlayTimeHours: 57 valori lipsa (0.71%)
+
+X_test - SessionsPerWeek: 82 valori lipsa (1.02%)
+
+X_test - AvgSessionDurationMinutes: 76 valori lipsa (0.95%)
+
+X_test - PlayerLevel: 86 valori lipsa (1.07%)
+
+X_test - AchievementsUnlocked: 64 valori lipsa (0.80%)
+

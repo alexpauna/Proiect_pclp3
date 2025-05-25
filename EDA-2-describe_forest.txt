@@ -1,0 +1,90 @@
+
+Statistici descriptive pentru Gender:
+count     39692
+unique        2
+top        Male
+freq      23739
+
+Statistici descriptive pentru Location:
+count     39671
+unique        4
+top         USA
+freq      15862
+
+Statistici descriptive pentru GameGenre:
+count      39635
+unique         5
+top       Sports
+freq        7963
+
+Statistici descriptive pentru GameDifficulty:
+count     39690
+unique        3
+top        Easy
+freq      19835
+
+Statistici descriptive pentru InGamePurchases:
+count     39659
+unique        2
+top           0
+freq      31701
+
+Statistici descriptive pentru Age:
+count    39694.000000
+mean        31.997128
+std         10.040251
+min         15.000000
+25%         23.000000
+50%         32.000000
+75%         41.000000
+max         49.000000
+
+Statistici descriptive pentru PlayTimeHours:
+count    39696.000000
+mean        12.028292
+std          6.913562
+min          0.000115
+25%          6.080496
+50%         12.013503
+75%         17.965136
+max         23.999592
+
+Statistici descriptive pentru SessionsPerWeek:
+count    39650.000000
+mean         9.476066
+std          5.764134
+min          0.000000
+25%          4.000000
+50%          9.000000
+75%         14.000000
+max         19.000000
+
+Statistici descriptive pentru AvgSessionDurationMinutes:
+count    39682.000000
+mean        94.796558
+std         49.023203
+min         10.000000
+25%         52.000000
+50%         95.000000
+75%        137.000000
+max        179.000000
+
+Statistici descriptive pentru PlayerLevel:
+count    39650.000000
+mean        49.639697
+std         28.582335
+min          1.000000
+25%         25.000000
+50%         49.000000
+75%         74.000000
+max         99.000000
+
+Statistici descriptive pentru AchievementsUnlocked:
+count    39670.000000
+mean        24.524099
+std         14.429768
+min          0.000000
+25%         12.000000
+50%         25.000000
+75%         37.000000
+max         49.000000
